@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ttf2eot/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ttf2eot/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ttf2eot/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ttf2eot/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ttf2eot/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ttf2eot/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ttf2eot/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ttf2eot/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ttf2eot/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ttf2eot/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ttf2eot/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ttf2eot/build/coverage.html/index.html)
 
